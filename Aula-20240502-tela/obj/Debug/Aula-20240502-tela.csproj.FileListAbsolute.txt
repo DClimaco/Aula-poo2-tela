@@ -1,0 +1,11 @@
+C:\DevC\Aula-20240502-tela\bin\Debug\Aula-20240502-tela.exe.config
+C:\DevC\Aula-20240502-tela\bin\Debug\Aula-20240502-tela.exe
+C:\DevC\Aula-20240502-tela\bin\Debug\Aula-20240502-tela.pdb
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.csproj.AssemblyReference.cache
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula_20240502_tela.Homer.resources
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula_20240502_tela.Properties.Resources.resources
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.csproj.GenerateResource.cache
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.csproj.CoreCompileInputs.cache
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.exe
+C:\DevC\Aula-20240502-tela\obj\Debug\Aula-20240502-tela.pdb
